@@ -1,5 +1,4 @@
 # 💫 About Me:
-My name is Shivam Shah.I am pursuing my B.tech degree in computer science from Babu banarasi das university skills full stack development<br>
 
 
 ## 🌐 Socials:
